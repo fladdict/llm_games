@@ -9,7 +9,7 @@ Suddenly, you receive a message from your childhood friend who died several year
 
 You can use the chat to share your modern knowledge and skills with your childhood friend to help her become a warrior and save the other world. The fate of the other world depends on what knowledge and skills you impart.
 
-![Chat Reincarnation](https://github.com/fladdict/llm_rpg/blob/main/girl.png) 
+![The Girl](https://github.com/fladdict/llm_rpg/blob/main/girl.png) 
 
 
 # How to Play
@@ -80,7 +80,7 @@ Chanage line in Basic Story section in the prompt.
 * Player is a boy. Childhood Friend is a girl.
 ```
 
-![Chat Reincarnation](https://github.com/fladdict/llm_rpg/blob/main/boy.png) 
+![The Boy](https://github.com/fladdict/llm_rpg/blob/main/boy.png) 
 
 
 # Changing the language
@@ -99,6 +99,8 @@ All Input and output should be in English.
 * Google is your bestfriend.
 * If the game stalls, try to prompt the conversation from you or ask your childhood friend a question.
 * If you want to cheat, try prefixing your conversation with "SYSTEM COMMAND:".
+
+![Chat Reincarnation](https://github.com/fladdict/llm_rpg/blob/main/mobile.png) 
 
 
 
