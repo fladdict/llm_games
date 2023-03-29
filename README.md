@@ -68,9 +68,9 @@ Start the game.
 
 
 
-# Changing the gender of the player and partner
+# Changing the gender of the player and childhood friend
 
-You can change the gender of the player and heroine if you wish.
+You can change the gender of the player and childhood friend if you wish.
 
 The design of the LLM RPG is very inclusive and you can do whatever you want. 
 
