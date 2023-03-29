@@ -1,6 +1,6 @@
 # About Project
 
-This is a brand new role-playing game using a large-scale language model and chat.
+This is a prompt based brand new role-playing game using LLM(large language model) like ChatGPT.
 
 You can play the game or build your own games.
 
