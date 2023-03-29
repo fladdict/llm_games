@@ -13,7 +13,7 @@ You can use the chat to share your modern knowledge and skills with your childho
 
 
 # How to Play
-Copy & paste the prompts below into Chat GPT in GPT4 mode.
+**Copy & paste the prompts below into Chat GPT in GPT4 mode.**
 
 Reply chats from your childhood friend and save the world. 
 
