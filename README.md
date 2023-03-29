@@ -2,6 +2,8 @@
 
 This is a brand new role-playing game using a large-scale language model and chat.
 
+You can play the game or build your own games.
+
 
 # Story
 
