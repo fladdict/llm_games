@@ -80,6 +80,8 @@ Chanage line in Basic Story section in the prompt.
 * Player is a boy. Childhood Friend is a girl.
 ```
 
+![Chat Reincarnation](https://github.com/fladdict/llm_rpg/blob/main/boy.png) 
+
 
 # Changing the language
 
