@@ -7,7 +7,7 @@ You can play the game or build your own games.
 
 # Story
 
-Suddenly, you receive a message from your childhood friend who died several years ago. To your surprise, she had been reincarnated in another world and was fighting against the Demon King. As a cheat gift from god, she has been given the power to chat with you, her childhood friend.
+Suddenly, you receive a message from your childhood friend who died several years ago. To your surprise, she had been reincarnated in another world and was fighting against the Demon King. As a cheat gift from god, she has been given the power to chat with you via messenger app.
 
 Use the chat to help her in her adventures by sharing your modern knowledge and skills with your childhood friend. The fate of the other world depends on what knowledge and skills you impart to her: steam engine, medicine, internet, finance, and so on.
 
