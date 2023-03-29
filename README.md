@@ -93,6 +93,12 @@ Basically, the language should change in response to user input. But if it does 
 All Input and output should be in English.
 ```
 
+# For easy mode.
+Add a line belown in Basic Setup section.
+
+```
+* As GM, show 4 choices and indicate that player can answer other choice by his own text.
+```
 
 # Tips to enjoy the game more
 
