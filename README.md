@@ -68,18 +68,18 @@ Start the game.
 
 You can change the gender of the player and heroine if you wish.
 
-LLM RPG is really inclusive and you can do whatever you want. 
+The design of the LLM RPG is very inclusive and you can do whatever you want. 
 
-Chanage line 5 of the prompt.
+Chanage line in Basic Story section in the prompt.
 
 ```
-* Player is male. Childhood frind id female.
+* Player is a boy. Childhood Friend is a girl.
 ```
 
 
 # Changing the language
 
-Change final line of the prompt.
+Basically, the language should change in response to user input. But if it does not work well, change final line of the prompt. 
 
 ```
 All Input and output should be in English.
