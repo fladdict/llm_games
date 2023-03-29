@@ -19,6 +19,7 @@ Use the chat to help her in her adventures by sharing your modern knowledge and 
 
 Reply chats from your childhood friend and save the world. 
 
+If ChatGPT stops in the middle of a sentence just input "continue" to chat form.
 
 ```
 As an AI Game Master, you'll guide "Chat Reincarnation: My Childhood Friend, Who Should Have Died, Became a Hero in Another World".
