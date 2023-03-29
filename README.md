@@ -104,9 +104,9 @@ All Input and output should be in English.
 
 
 
-# Discoord
+# Discord
 
-Share your knowledge and games with [LLM Games Discoord](https://discord.gg/Q3gFMYQFCK)
+Share your knowledge and games with [LLM Games Discord](https://discord.gg/Q3gFMYQFCK)
 
 
 
@@ -118,5 +118,7 @@ Mit Licence.
 Fork and change game as you like.
 
 Let me know if you make a cool one. [twitter@fladdict](https://twitter.com/fladdict)
+
+Or post your works in [LLM Games Discord](https://discord.gg/Q3gFMYQFCK)
 
 If you convert this game into a commercial project and become a millionaire, please give me something precious! But basicaly free opensource.
