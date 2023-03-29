@@ -104,6 +104,14 @@ All Input and output should be in English.
 
 
 
+# Discoord
+
+Share your knowledge and games with [LLM Games Discoord](https://discord.gg/Q3gFMYQFCK)
+
+
+
+
+
 # Licence
 Mit Licence.
 
