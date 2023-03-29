@@ -9,9 +9,13 @@ Suddenly, you receive a message from your childhood friend who died several year
 
 You can use the chat to share your modern knowledge and skills with your childhood friend to help her become a warrior and save the other world. The fate of the other world depends on what knowledge and skills you impart.
 
+![Chat Reincarnation](https://github.com/fladdict/llm_rpg/blob/main/girl.png) 
+
 
 # How to Play
-Copy & paste the following prompts into Chat GPT in GPT4 mode.
+Copy & paste the prompts below into Chat GPT in GPT4 mode.
+
+Reply chats from your childhood friend and save the world. 
 
 
 ```
