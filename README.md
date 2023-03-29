@@ -107,6 +107,7 @@ All Input and output should be in English.
 
 
 # Discord
+Want to build your own games?
 
 Share your knowledge and games with [LLM Games Discord](https://discord.gg/Q3gFMYQFCK)
 
